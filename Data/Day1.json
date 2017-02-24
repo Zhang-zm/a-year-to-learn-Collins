@@ -1,0 +1,112 @@
+[
+  {
+    "daySerial":1,
+    "date":"2017-02-24",
+    "pageStart":1,
+    "pageEnd":10,
+    "unfamiliarWords":
+      [
+        {
+          "word":"aback",
+          "simpleMeaning":"大吃一惊，感到震惊（以至于无法立刻做出反应）"
+        },
+        {
+          "word": "abate",
+          "simpleMeaning":"减弱；减退(Formal)"
+        },
+        {
+          "word": "abbey",
+          "simpleMeaning":"大道修院"
+        },
+        {
+          "word": "abbreviate",
+          "simpleMeaning":"缩写；缩略；缩短"
+        },
+        {
+          "word": "abdicate",
+          "simpleMeaning":"退位；逊位"
+        },
+        {
+          "word": "abdomen",
+          "simpleMeaning":"腹（部）(Formal)"
+        },
+        {
+          "word": "abduct",
+          "simpleMeaning":"劫持；绑架；诱拐"
+        },
+        {
+          "word": "aberration",
+          "simpleMeaning":"偶发事件；非典型事件；异常行为(Formal)"
+        },
+        {
+          "word": "abject",
+          "simpleMeaning":"蹩脚的；悲惨的；糟透的"
+        },
+        {
+          "word": "ablaze",
+          "simpleMeaning":"炽热的；熊熊燃烧的"
+        },
+        {
+          "word": "ably",
+          "simpleMeaning":"能干地；精明强干的"
+        },
+        {
+          "word": "abolition",
+          "simpleMeaning":"废除；废止（制度、习俗等）"
+        },
+        {
+          "word": "abominable",
+          "simpleMeaning":"可恶的；低劣的；极糟的"
+        },
+        {
+          "word": "aborigine",
+          "simpleMeaning":"澳大利亚土著居民"
+        },
+        {
+          "word": "abrest",
+          "simpleMeaning":"并肩，并排（进行）"
+        },
+        {
+          "word": "absentee",
+          "simpleMeaning":"（应到而未到的）缺席者，不在场者"
+        },
+        {
+          "word": "absent-minded",
+          "simpleMeaning":"健忘的；不注意的；心不在焉的"
+        },
+        {
+          "word": "abstain",
+          "simpleMeaning":"戒；戒绝(Formal)"
+        },
+        {
+          "word": "absurd",
+          "simpleMeaning":"荒谬的；荒唐的"
+        },
+        {
+          "word": "abusive",
+          "simpleMeaning":"虐待的；凌辱的"
+        },
+        {
+          "word": "abysmal",
+          "simpleMeaning":"极坏的；糟透的"
+        },
+        {
+          "word": "abyss",
+          "simpleMeaning":"深渊"
+        },
+        {
+          "word": "accentuate",
+          "simpleMeaning":"强调；着重；使突出"
+        }
+      ],
+      "detailedLearning":
+        [
+          {
+            "word":"abandon",
+            "stars":3,
+            "meanings":["离弃；遗弃；抛弃","中途放弃，中止（活动、工作等）","放弃（念头、想法等）","亦见"],
+            "sentenceDefinitions":["He claimed that his parents had abandoned him."]
+          }
+        ]
+  }
+]
